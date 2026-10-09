@@ -1,0 +1,3 @@
+We have uploaded the DIMEPlus dataset to IEEE Dataport: https://dx.doi.org/10.21227/w9yn-y292
+
+The zipped file is around 40GB and unzipped around 100GB.
