@@ -52,10 +52,11 @@ The testing results will be saved in `exp_inference`
 # Acknowledgements
 If you find our work useful, please cite:
 ```bibtex
-@article{zhangLearningExposure2026,
+@article{zhangLearningVideoExposure2026,
   title = {Learning Video Exposure Correction: Large-Scale Real-World Dataset and Method},
   author = {Zhang, Siru and Fu, Huiyuan and Liu, Jin and Wang, Bo and Wang, Chuanming and Sun, Chongqi and Ma, Huadong},
   year = 2026,
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell.}
 }
 
 @inproceedings{liuLearningExposure2024,
