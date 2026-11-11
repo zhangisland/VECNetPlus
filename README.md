@@ -1,6 +1,13 @@
-# VECNet++: Learning Video Exposure Correction: Large-Scale Real-World Dataset and Method
+# Learning Video Exposure Correction: Large-Scale Real-World Dataset and Method
+
+Official PyTorch implementation of "Learning Video Exposure Correction: Large-Scale Real-World Dataset and Method" (IEEE TPAMI 2026).
 
 > Journal extension of "Learning Exposure Correction in Dynamic Scenes" (ACMMM24 Oral)
+
+**VECNet++** | [Paper](https://doi.org/10.1109/TPAMI.2026.3739518) | [Dataset](https://doi.org/10.21227/w9yn-y292)
+
+This repository provides the official implementation of VECNet++ for video exposure correction, including underexposed and overexposed video enhancement.
+
 
 
 ## Requirements
